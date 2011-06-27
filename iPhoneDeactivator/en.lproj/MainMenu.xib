@@ -240,7 +240,7 @@
 						<object class="NSTextField" id="290897306">
 							<reference key="NSNextResponder" ref="439893737"/>
 							<int key="NSvFlags">268</int>
-							<string key="NSFrame">{{7, 28}, {399, 17}}</string>
+							<string key="NSFrame">{{7, 58}, {467, 17}}</string>
 							<reference key="NSSuperview" ref="439893737"/>
 							<reference key="NSWindow"/>
 							<reference key="NSNextKeyView" ref="581785309"/>
@@ -278,10 +278,9 @@
 						<object class="NSButton" id="581785309">
 							<reference key="NSNextResponder" ref="439893737"/>
 							<int key="NSvFlags">268</int>
-							<string key="NSFrame">{{353, 26}, {118, 25}}</string>
+							<string key="NSFrame">{{184, 16}, {113, 32}}</string>
 							<reference key="NSSuperview" ref="439893737"/>
 							<reference key="NSWindow"/>
-							<reference key="NSNextKeyView"/>
 							<bool key="NSEnabled">YES</bool>
 							<object class="NSButtonCell" key="NSCell" id="808208986">
 								<int key="NSCellFlags">-1543373312</int>
@@ -289,8 +288,9 @@
 								<string key="NSContents">Deactivate!</string>
 								<reference key="NSSupport" ref="695708936"/>
 								<reference key="NSControlView" ref="581785309"/>
-								<int key="NSButtonFlags">-2038152961</int>
-								<int key="NSButtonFlags2">163</int>
+								<int key="NSButtonFlags">-2034876161</int>
+								<int key="NSButtonFlags2">2</int>
+								<reference key="NSAlternateImage" ref="695708936"/>
 								<string key="NSAlternateContents"/>
 								<string key="NSKeyEquivalent"/>
 								<int key="NSPeriodicDelay">400</int>
@@ -548,8 +548,8 @@
 						<object class="NSMutableArray" key="children">
 							<bool key="EncodedWithXMLCoder">YES</bool>
 							<reference ref="30128831"/>
-							<reference ref="581785309"/>
 							<reference ref="290897306"/>
+							<reference ref="581785309"/>
 						</object>
 						<reference key="parent" ref="972006081"/>
 					</object>

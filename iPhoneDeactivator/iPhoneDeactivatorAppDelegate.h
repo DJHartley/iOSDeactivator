@@ -19,5 +19,5 @@
 @property (assign) IBOutlet NSWindow *window;
 @property (nonatomic) AMDeviceRef deviceRef;
 - (IBAction)doIt:(id)sender;
-
+- (void)devDisconnected;
 @end

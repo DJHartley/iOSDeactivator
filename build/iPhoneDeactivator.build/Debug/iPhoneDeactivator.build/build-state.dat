@@ -4,47 +4,14 @@ r1
 cCheck dependencies
 cProcessInfoPlistFile /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Info.plist iPhoneDeactivator/iPhoneDeactivator-Info.plist
 cProcessPCH /var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneDeactivator-Prefix-fmuivjnqlecoitbwfafjhmrskpnx/iPhoneDeactivator-Prefix.pch.pth iPhoneDeactivator/iPhoneDeactivator-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/main.o /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/iPhoneDeactivatorAppDelegate.o /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/MDDeviceManager.o /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDDeviceManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/MDNotificationCenter.o /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDNotificationCenter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/MDDeviceManager.o /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDDeviceManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/iPhoneDeactivatorAppDelegate.o /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/main.o /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cLd /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/MacOS/iPhoneDeactivator normal x86_64
 cCopyStringsFile /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/en.lproj/InfoPlist.strings iPhoneDeactivator/en.lproj/InfoPlist.strings
 cCpResource iPhoneDeactivator/en.lproj/Credits.rtf build/Debug/iPhoneDeactivator.app/Contents/Resources/en.lproj/Credits.rtf
 cCompileXIB /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/en.lproj/MainMenu.xib
-cCpResource iPhoneDeactivator/libluckycharms/.git/COMMIT_EDITMSG build/Debug/iPhoneDeactivator.app/Contents/Resources/COMMIT_EDITMSG
-cCpResource iPhoneDeactivator/libluckycharms/.git/config build/Debug/iPhoneDeactivator.app/Contents/Resources/config
-cCpResource iPhoneDeactivator/libluckycharms/.git/description build/Debug/iPhoneDeactivator.app/Contents/Resources/description
-cCpResource iPhoneDeactivator/libluckycharms/.git/HEAD build/Debug/iPhoneDeactivator.app/Contents/Resources/HEAD
-cCpResource iPhoneDeactivator/libluckycharms/.git/logs/HEAD build/Debug/iPhoneDeactivator.app/Contents/Resources/HEAD
-cCpResource iPhoneDeactivator/libluckycharms/.git/hooks/applypatch-msg.sample build/Debug/iPhoneDeactivator.app/Contents/Resources/applypatch-msg.sample
-cCpResource iPhoneDeactivator/libluckycharms/.git/hooks/commit-msg.sample build/Debug/iPhoneDeactivator.app/Contents/Resources/commit-msg.sample
-cCpResource iPhoneDeactivator/libluckycharms/.git/hooks/post-commit.sample build/Debug/iPhoneDeactivator.app/Contents/Resources/post-commit.sample
-cCpResource iPhoneDeactivator/libluckycharms/.git/hooks/post-receive.sample build/Debug/iPhoneDeactivator.app/Contents/Resources/post-receive.sample
-cCpResource iPhoneDeactivator/libluckycharms/.git/hooks/post-update.sample build/Debug/iPhoneDeactivator.app/Contents/Resources/post-update.sample
-cCpResource iPhoneDeactivator/libluckycharms/.git/hooks/pre-applypatch.sample build/Debug/iPhoneDeactivator.app/Contents/Resources/pre-applypatch.sample
-cCpResource iPhoneDeactivator/libluckycharms/.git/hooks/pre-commit.sample build/Debug/iPhoneDeactivator.app/Contents/Resources/pre-commit.sample
-cCpResource iPhoneDeactivator/libluckycharms/.git/hooks/pre-rebase.sample build/Debug/iPhoneDeactivator.app/Contents/Resources/pre-rebase.sample
-cCpResource iPhoneDeactivator/libluckycharms/.git/hooks/prepare-commit-msg.sample build/Debug/iPhoneDeactivator.app/Contents/Resources/prepare-commit-msg.sample
-cCpResource iPhoneDeactivator/libluckycharms/.git/hooks/update.sample build/Debug/iPhoneDeactivator.app/Contents/Resources/update.sample
-cCpResource iPhoneDeactivator/libluckycharms/.git/index build/Debug/iPhoneDeactivator.app/Contents/Resources/index
-cCpResource iPhoneDeactivator/libluckycharms/.git/info/exclude build/Debug/iPhoneDeactivator.app/Contents/Resources/exclude
-cCpResource iPhoneDeactivator/libluckycharms/.git/logs/refs/heads/master build/Debug/iPhoneDeactivator.app/Contents/Resources/master
-cCpResource iPhoneDeactivator/libluckycharms/.git/logs/refs/remotes/origin/master build/Debug/iPhoneDeactivator.app/Contents/Resources/master
-cCpResource iPhoneDeactivator/libluckycharms/.git/refs/heads/master build/Debug/iPhoneDeactivator.app/Contents/Resources/master
-cCpResource iPhoneDeactivator/libluckycharms/.git/refs/remotes/origin/master build/Debug/iPhoneDeactivator.app/Contents/Resources/master
-cCpResource iPhoneDeactivator/libluckycharms/.git/objects/34/2b3903eaa983e39af2af72b2a3ce365cc8ff68 build/Debug/iPhoneDeactivator.app/Contents/Resources/2b3903eaa983e39af2af72b2a3ce365cc8ff68
-cCpResource iPhoneDeactivator/libluckycharms/.git/objects/3f/c029ac47c83974c876afa43a5c723948cd4990 build/Debug/iPhoneDeactivator.app/Contents/Resources/c029ac47c83974c876afa43a5c723948cd4990
-cCpResource iPhoneDeactivator/libluckycharms/.git/objects/54/3b9bebdc6bd5c4b22136034a95dd097a57d3dd build/Debug/iPhoneDeactivator.app/Contents/Resources/3b9bebdc6bd5c4b22136034a95dd097a57d3dd
-cCpResource iPhoneDeactivator/libluckycharms/.git/objects/5c/e1b5bf2e7fe7392694d3e133ff7a599f45faba build/Debug/iPhoneDeactivator.app/Contents/Resources/e1b5bf2e7fe7392694d3e133ff7a599f45faba
-cCpResource iPhoneDeactivator/libluckycharms/.git/objects/a7/51cfec80f219978ccb20a882f5ebf0b52a5de8 build/Debug/iPhoneDeactivator.app/Contents/Resources/51cfec80f219978ccb20a882f5ebf0b52a5de8
-cCpResource iPhoneDeactivator/libluckycharms/.git/objects/c3/be417b9cfff2b47f0a822608a0c2768c5586c7 build/Debug/iPhoneDeactivator.app/Contents/Resources/be417b9cfff2b47f0a822608a0c2768c5586c7
-cCpResource iPhoneDeactivator/libluckycharms/.git/objects/d3/179578c7e1cce2190ea455c38aa041b753dc5a build/Debug/iPhoneDeactivator.app/Contents/Resources/179578c7e1cce2190ea455c38aa041b753dc5a
-cCpResource iPhoneDeactivator/libluckycharms/.git/objects/e4/82be4b0c07047ec9b7b53b047330fe719c9c59 build/Debug/iPhoneDeactivator.app/Contents/Resources/82be4b0c07047ec9b7b53b047330fe719c9c59
-cCpResource iPhoneDeactivator/libluckycharms/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391 build/Debug/iPhoneDeactivator.app/Contents/Resources/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
-cCpResource iPhoneDeactivator/libluckycharms/.git/objects/f0/0b43ca0ab730d2d2db7c497dfbd492fcaaee73 build/Debug/iPhoneDeactivator.app/Contents/Resources/0b43ca0ab730d2d2db7c497dfbd492fcaaee73
-cCpResource iPhoneDeactivator/libluckycharms/.git/objects/fc/5b102595e548233e75007c3612509c38e1bdb4 build/Debug/iPhoneDeactivator.app/Contents/Resources/5b102595e548233e75007c3612509c38e1bdb4
-cCpResource iPhoneDeactivator/libluckycharms/.git/objects/ff/ff1f092ddf82c733665f6438890e0eb0f35b93 build/Debug/iPhoneDeactivator.app/Contents/Resources/ff1f092ddf82c733665f6438890e0eb0f35b93
 cCpResource iPhoneDeactivator/libluckycharms/README build/Debug/iPhoneDeactivator.app/Contents/Resources/README
 cCpResource iPhoneDeactivator/libluckycharms/1.png build/Debug/iPhoneDeactivator.app/Contents/Resources/1.png
 cTouch /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app
@@ -80,7 +47,7 @@ t1298536007
 s144976
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app
-t1309164316
+t1309167874
 s102
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Info.plist
@@ -88,8 +55,8 @@ t1309163762
 s1338
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/MacOS/iPhoneDeactivator
-t1309164316
-s44724
+t1309167847
+s46412
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/PkgInfo
 t1309163762
@@ -132,12 +99,12 @@ t1309163778
 s15
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/COMMIT_EDITMSG
-t1309163778
-s20
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/HEAD
-t1309164316
-s345
+t1309164386
+s23
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/README
 t1309163778
@@ -180,8 +147,8 @@ t1309163778
 s92
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/en.lproj/MainMenu.nib
-t1309164192
-s8223
+t1309167848
+s8264
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/exclude
 t1309163778
@@ -196,7 +163,7 @@ t1309163778
 s760
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/master
-t1309164316
+t1309164386
 s41
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/post-commit.sample
@@ -245,8 +212,8 @@ t1309163701
 s591
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/iPhoneDeactivatorAppDelegate.o
-t1309164316
-s27980
+t1309167847
+s35908
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/main.o
 t1309163765
@@ -263,9 +230,9 @@ t1309162958
 s45
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/en.lproj/MainMenu.xib
-c000000004E08435F000000000000897E
-t1309164383
-s35198
+c000000004E08516D0000000000008990
+t1309167981
+s35216
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivator-Prefix.pch
 c000000004E083DCE00000000000000A5
@@ -274,184 +241,184 @@ s165
 i<Cocoa/Cocoa.h>
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.h
-c000000004E08420F0000000000000244
-t1309164047
-s580
+c000000004E0850AD000000000000025C
+t1309167789
+s604
 i<Cocoa/Cocoa.h>
 i"libluckycharms/MDListener.h"
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m
-c000000004E0842F000000000000003DB
-t1309164272
-s987
+c000000004E0850E50000000000000C93
+t1309167845
+s3219
 i"iPhoneDeactivatorAppDelegate.h"
 i"libluckycharms/MDListener.h"
 i"libluckycharms/MDNotificationCenter.h"
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/COMMIT_EDITMSG
-c000000004E0763DE0000000000000014
-t1309107166
-s20
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/HEAD
-c000000004E0763A60000000000000017
-t1309107110
-s23
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/config
-c000000004E0763EC0000000000000122
-t1309107180
-s290
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/description
-c000000004E0763A60000000000000049
-t1309107110
-s73
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/hooks/applypatch-msg.sample
-c000000004E0763A600000000000001C4
-t1309107110
-s452
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/hooks/commit-msg.sample
-c000000004E0763A60000000000000380
-t1309107110
-s896
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/hooks/post-commit.sample
-c000000004E0763A600000000000000A0
-t1309107110
-s160
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/hooks/post-receive.sample
-c000000004E0763A60000000000000228
-t1309107110
-s552
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/hooks/post-update.sample
-c000000004E0763A600000000000000BD
-t1309107110
-s189
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/hooks/pre-applypatch.sample
-c000000004E0763A6000000000000018E
-t1309107110
-s398
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/hooks/pre-commit.sample
-c000000004E0763A6000000000000062A
-t1309107110
-s1578
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/hooks/pre-rebase.sample
-c000000004E0763A6000000000000135D
-t1309107110
-s4957
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/hooks/prepare-commit-msg.sample
-c000000004E0763A600000000000004E3
-t1309107110
-s1251
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/hooks/update.sample
-c000000004E0763A60000000000000E1B
-t1309107110
-s3611
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/index
-c000000004E083EEC00000000000002F8
-t1309163244
-s760
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/info/exclude
-c000000004E0763A600000000000000F0
-t1309107110
-s240
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/logs/HEAD
-c000000004E0763DE0000000000000159
-t1309107166
-s345
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/logs/refs/heads/master
-c000000004E0763DE0000000000000159
-t1309107166
-s345
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/logs/refs/remotes/origin/master
-c000000004E0763EC000000000000013C
-t1309107180
-s316
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/objects/34/2b3903eaa983e39af2af72b2a3ce365cc8ff68
-c000000004E0763C400000000000001B5
-t1309107140
-s437
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/objects/3f/c029ac47c83974c876afa43a5c723948cd4990
-c000000004E0763A60000000000000084
-t1309107110
-s132
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/objects/54/3b9bebdc6bd5c4b22136034a95dd097a57d3dd
-c000000004E0763A60000000000000033
-t1309107110
-s51
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/objects/5c/e1b5bf2e7fe7392694d3e133ff7a599f45faba
-c000000004E0763C400000000000002CE
-t1309107140
-s718
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/objects/a7/51cfec80f219978ccb20a882f5ebf0b52a5de8
-c000000004E0763C4000000000000008A
-t1309107140
-s138
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/objects/c3/be417b9cfff2b47f0a822608a0c2768c5586c7
-c000000004E0763C40000000000000136
-t1309107140
-s310
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/objects/d3/179578c7e1cce2190ea455c38aa041b753dc5a
-c000000004E0763C40000000000000188
-t1309107140
-s392
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/objects/e4/82be4b0c07047ec9b7b53b047330fe719c9c59
-c000000004E0763DE00000000000000AD
-t1309107166
-s173
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
-c000000004E0763A6000000000000000F
-t1309107110
-s15
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/objects/f0/0b43ca0ab730d2d2db7c497dfbd492fcaaee73
-c000000004E0763C40000000000001427
-t1309107140
-s5159
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/objects/fc/5b102595e548233e75007c3612509c38e1bdb4
-c000000004E0763DE000000000000012B
-t1309107166
-s299
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/objects/ff/ff1f092ddf82c733665f6438890e0eb0f35b93
-c000000004E0763C400000000000006F6
-t1309107140
-s1782
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/refs/heads/master
-c000000004E0763DE0000000000000029
-t1309107166
-s41
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/refs/remotes/origin/master
-c000000004E0763EC0000000000000029
-t1309107180
-s41
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/1.png
 c000000004E083EDD0000000000005568
@@ -538,7 +505,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies062aa3e27ab8b341^9df6ace27ab8b341^-642"[WARN]Warning: Multiple build commands for output file /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/HEAD[WARN]Warning: Multiple build commands for output file /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/master[WARN]Warning: Multiple build commands for output file /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/master[WARN]Warning: Multiple build commands for output file /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/master4(21%IDEActivityLogMessage2@152"Warning: Multiple build commands for output file /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/HEAD-330857186#18446744073709551615#0#-1#-----2@154"Warning: Multiple build commands for output file /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/master-330857186#18446744073709551615#0#-1#-----2@154"Warning: Multiple build commands for output file /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/master-330857186#18446744073709551615#0#-1#-----2@154"Warning: Multiple build commands for output file /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/master-330857186#18446744073709551615#0#-1#-----0#1#0#--18"Check dependencies
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8882f1ef88b8b341^a4fff5ef88b8b341^---0#1#0#--18"Check dependencies
 
 CCompileC build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/MDDeviceManager.o /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDDeviceManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s330856565.633060
@@ -567,8 +534,8 @@ xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDNotificationCenter.m8cbb617578b8b341^d7dca17578b8b341^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDNotificationCenter.m0000000000000000^2258"CompileC build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/MDNotificationCenter.o iPhoneDeactivator/libluckycharms/MDNotificationCenter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/iPhoneDeactivator    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/iPhoneDeactivator-generated-files.hmap -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/iPhoneDeactivator-own-target-headers.hmap -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/iPhoneDeactivator-all-target-headers.hmap -iquote /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/iPhoneDeactivator-project-headers.hmap -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/include -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/DerivedSources/x86_64 -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/DerivedSources -F/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -include /var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneDeactivator-Prefix-fmuivjnqlecoitbwfafjhmrskpnx/iPhoneDeactivator-Prefix.pch -c /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDNotificationCenter.m -o /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/MDNotificationCenter.o
 
 CCompileC build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/iPhoneDeactivatorAppDelegate.o /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s330857116.556170
-e330857116.617452
+s330860647.116976
+e330860647.217128
 r1
 xCompileC
 xbuild/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/iPhoneDeactivatorAppDelegate.o
@@ -586,8 +553,8 @@ oIn file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeact
 o/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h:13:1: note: previous definition is here
 o @protocol MDListener <NSObject>
 o ^
-o/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m:31:24:{31:24-31:33}: warning: incompatible pointer types passing 'struct __AMDevice *' to parameter of type 'AMDeviceRef *' (aka 'struct __AMDevice **') [2]
-o     AMDeviceDeactivate(deviceRef);
+o/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m:83:24:{83:24-83:33}: warning: incompatible pointer types passing 'struct __AMDevice *' to parameter of type 'AMDeviceRef *' (aka 'struct __AMDevice **') [2]
+o     AMDeviceDeactivate(deviceRef); //Deactivate device
 o                        ^~~~~~~~~
 oIn file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m:9:
 oIn file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.h:10:
@@ -596,7 +563,7 @@ o/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/
 o  mach_error_t AMDeviceDeactivate(AMDeviceRef *device);
 o                                               ^
 o2 warnings generated.
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.mfa7e8e9c7ab8b341^56b9b09c7ab8b341^-1709"In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m:10:/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h:13:11: warning: duplicate protocol definition of 'MDListener' is ignored [2] @protocol MDListener <NSObject>           ^In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m:9:In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.h:10:/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h:13:1: note: previous definition is here @protocol MDListener <NSObject> ^/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m:31:24:{31:24-31:33}: warning: incompatible pointer types passing 'struct __AMDevice *' to parameter of type 'AMDeviceRef *' (aka 'struct __AMDevice **') [2]     AMDeviceDeactivate(deviceRef);                        ^~~~~~~~~In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m:9:In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.h:10:In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h:10:/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MobileDevice.h:164:47: note: passing argument to parameter 'device' here [2]  mach_error_t AMDeviceDeactivate(AMDeviceRef *device);                                               ^2 warnings generated.3(21%IDEActivityLogMessage2@56"Duplicate protocol definition of 'MDListener' is ignored-330857116#121#169#3(36%IDEActivityLogHeaderInclusionMessage3@120"In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m:10:-330857116#0#121#-0#-23%DVTTextDocumentLocation4@110"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---2@151"Duplicate protocol definition of 'MDListener' is ignored in /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h-330857116#18446744073709551615#0#-0#-4@107"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h0000000000000000^12#10#12#10#18446744073709551615#0#---2@27"Previous definition is here-330857116#577#132#4(3@120"In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.h:10:-330857116#18446744073709551615#0#-0#-4@110"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.h0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---3@119"In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m:9:-330857116#18446744073709551615#0#-0#-4@110"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---3@120"In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m:10:-330857116#18446744073709551615#0#-0#-4@110"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---2@122"Previous definition is here in /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h-330857116#18446744073709551615#0#-0#-4@107"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h0000000000000000^12#0#12#0#18446744073709551615#0#---0#-4@107"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h0000000000000000^12#0#12#0#18446744073709551615#0#---1#-4@107"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h0000000000000000^12#10#12#10#18446744073709551615#0#14"Semantic Issue--2@122"Incompatible pointer types passing 'struct __AMDevice *' to parameter of type 'AMDeviceRef *' (aka 'struct __AMDevice **')93"Incompatible pointer types passing 'struct __AMDevice *' to parameter of type 'AMDeviceRef *'330857116#745#252#-1#-4@110"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m0000000000000000^30#23#30#23#18446744073709551615#0#14"Semantic Issue1(4@110"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m0000000000000000^30#23#30#32#18446744073709551615#0#-2@43"Passing argument to parameter 'device' here-330857116#1426#156#4(3@117"In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h:10:-330857116#18446744073709551615#0#-0#-4@107"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---3@120"In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.h:10:-330857116#18446744073709551615#0#-0#-4@110"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.h0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---3@119"In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m:9:-330857116#18446744073709551615#0#-0#-4@110"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---2@140"Passing argument to parameter 'device' here in /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MobileDevice.h-330857116#18446744073709551615#0#-0#-4@109"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MobileDevice.h0000000000000000^163#46#163#46#18446744073709551615#0#---0#-4@109"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MobileDevice.h0000000000000000^163#46#163#46#18446744073709551615#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation5@110"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m0000000000000000^2260"CompileC build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/iPhoneDeactivatorAppDelegate.o iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/iPhoneDeactivator    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/iPhoneDeactivator-generated-files.hmap -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/iPhoneDeactivator-own-target-headers.hmap -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/iPhoneDeactivator-all-target-headers.hmap -iquote /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/iPhoneDeactivator-project-headers.hmap -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/include -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/DerivedSources/x86_64 -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/DerivedSources -F/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -include /var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneDeactivator-Prefix-fmuivjnqlecoitbwfafjhmrskpnx/iPhoneDeactivator-Prefix.pch -c /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m -o /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/iPhoneDeactivatorAppDelegate.o
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m3a231e6788b8b341^5aa1486788b8b341^-1729"In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m:10:/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h:13:11: warning: duplicate protocol definition of 'MDListener' is ignored [2] @protocol MDListener <NSObject>           ^In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m:9:In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.h:10:/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h:13:1: note: previous definition is here @protocol MDListener <NSObject> ^/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m:83:24:{83:24-83:33}: warning: incompatible pointer types passing 'struct __AMDevice *' to parameter of type 'AMDeviceRef *' (aka 'struct __AMDevice **') [2]     AMDeviceDeactivate(deviceRef); //Deactivate device                        ^~~~~~~~~In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m:9:In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.h:10:In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h:10:/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MobileDevice.h:164:47: note: passing argument to parameter 'device' here [2]  mach_error_t AMDeviceDeactivate(AMDeviceRef *device);                                               ^2 warnings generated.3(21%IDEActivityLogMessage2@56"Duplicate protocol definition of 'MDListener' is ignored-330860647#121#169#3(36%IDEActivityLogHeaderInclusionMessage3@120"In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m:10:-330860647#0#121#-0#-23%DVTTextDocumentLocation4@110"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---2@151"Duplicate protocol definition of 'MDListener' is ignored in /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h-330860647#18446744073709551615#0#-0#-4@107"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h0000000000000000^12#10#12#10#18446744073709551615#0#---2@27"Previous definition is here-330860647#577#132#4(3@120"In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.h:10:-330860647#18446744073709551615#0#-0#-4@110"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.h0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---3@119"In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m:9:-330860647#18446744073709551615#0#-0#-4@110"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---3@120"In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m:10:-330860647#18446744073709551615#0#-0#-4@110"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---2@122"Previous definition is here in /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h-330860647#18446744073709551615#0#-0#-4@107"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h0000000000000000^12#0#12#0#18446744073709551615#0#---0#-4@107"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h0000000000000000^12#0#12#0#18446744073709551615#0#---1#-4@107"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h0000000000000000^12#10#12#10#18446744073709551615#0#14"Semantic Issue--2@122"Incompatible pointer types passing 'struct __AMDevice *' to parameter of type 'AMDeviceRef *' (aka 'struct __AMDevice **')93"Incompatible pointer types passing 'struct __AMDevice *' to parameter of type 'AMDeviceRef *'330860647#745#252#-1#-4@110"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m0000000000000000^82#23#82#23#18446744073709551615#0#14"Semantic Issue1(4@110"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m0000000000000000^82#23#82#32#18446744073709551615#0#-2@43"Passing argument to parameter 'device' here-330860647#1446#156#4(3@117"In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h:10:-330860647#18446744073709551615#0#-0#-4@107"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MDListener.h0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---3@120"In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.h:10:-330860647#18446744073709551615#0#-0#-4@110"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.h0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---3@119"In file included from /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m:9:-330860647#18446744073709551615#0#-0#-4@110"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#---2@140"Passing argument to parameter 'device' here in /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MobileDevice.h-330860647#18446744073709551615#0#-0#-4@109"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MobileDevice.h0000000000000000^163#46#163#46#18446744073709551615#0#---0#-4@109"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/MobileDevice.h0000000000000000^163#46#163#46#18446744073709551615#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation5@110"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m0000000000000000^2260"CompileC build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/iPhoneDeactivatorAppDelegate.o iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/iPhoneDeactivator    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/iPhoneDeactivator-generated-files.hmap -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/iPhoneDeactivator-own-target-headers.hmap -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/iPhoneDeactivator-all-target-headers.hmap -iquote /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/iPhoneDeactivator-project-headers.hmap -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/include -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/DerivedSources/x86_64 -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/DerivedSources -F/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -include /var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneDeactivator-Prefix-fmuivjnqlecoitbwfafjhmrskpnx/iPhoneDeactivator-Prefix.pch -c /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/iPhoneDeactivatorAppDelegate.m -o /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/iPhoneDeactivatorAppDelegate.o
 
 CCompileC build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/main.o /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s330856565.381965
@@ -612,12 +579,12 @@ xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/main.m05de617578b8b341^e4d79b7578b8b341^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/main.m0000000000000000^2164"CompileC build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/main.o iPhoneDeactivator/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/iPhoneDeactivator    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/iPhoneDeactivator-generated-files.hmap -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/iPhoneDeactivator-own-target-headers.hmap -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/iPhoneDeactivator-all-target-headers.hmap -iquote /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/iPhoneDeactivator-project-headers.hmap -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/include -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/DerivedSources/x86_64 -I/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/DerivedSources -F/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -include /var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneDeactivator-Prefix-fmuivjnqlecoitbwfafjhmrskpnx/iPhoneDeactivator-Prefix.pch -c /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/main.m -o /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/main.o
 
 CCompileXIB /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/en.lproj/MainMenu.xib
-s330857186.708267
-e330857186.869622
+s330860783.960456
+e330860784.142484
 r1
 xCompileXIB
 x/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/en.lproj/MainMenu.xib
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compiling /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/en.lproj/MainMenu.xib266eb5e27ab8b341^cd73e8e27ab8b341^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/en.lproj/MainMenu.xib0000000000000000^512"CompileXIB iPhoneDeactivator/en.lproj/MainMenu.xib    cd /Users/tigra/Desktop/Coding/iPhoneDeactivator    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/en.lproj/MainMenu.nib /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/en.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compiling /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/en.lproj/MainMenu.xib1af8f5ef88b8b341^1c7d24f088b8b341^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/en.lproj/MainMenu.xib0000000000000000^512"CompileXIB iPhoneDeactivator/en.lproj/MainMenu.xib    cd /Users/tigra/Desktop/Coding/iPhoneDeactivator    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/en.lproj/MainMenu.nib /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/en.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk
 
 CCopyStringsFile /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/en.lproj/InfoPlist.strings iPhoneDeactivator/en.lproj/InfoPlist.strings
 s330856578.680805
@@ -638,13 +605,13 @@ xbuild/Debug/iPhoneDeactivator.app/Contents/Resources/en.lproj/Credits.rtf
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy build/Debug/iPhoneDeactivator.app/Contents/Resources/en.lproj/Credits.rtf3865ae8278b8b341^4701b68278b8b341^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/en.lproj/Credits.rtf000020442305f041^469"CpResource iPhoneDeactivator/en.lproj/Credits.rtf build/Debug/iPhoneDeactivator.app/Contents/Resources/en.lproj/Credits.rtf    cd /Users/tigra/Desktop/Coding/iPhoneDeactivator    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/en.lproj/Credits.rtf /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/en.lproj
 
 CCpResource iPhoneDeactivator/libluckycharms/.git/COMMIT_EDITMSG build/Debug/iPhoneDeactivator.app/Contents/Resources/COMMIT_EDITMSG
-s330856578.711308
-e330856578.714866
-r1
+s330860647.311440
+e330860647.318580
+r0
 xCpResource
 xiPhoneDeactivator/libluckycharms/.git/COMMIT_EDITMSG
 xbuild/Debug/iPhoneDeactivator.app/Contents/Resources/COMMIT_EDITMSG
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug/iPhoneDeactivator.app/Contents/Resources/COMMIT_EDITMSGf12bb68278b8b341^5401b78278b8b341^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/COMMIT_EDITMSG000020442305f041^482"CpResource iPhoneDeactivator/libluckycharms/.git/COMMIT_EDITMSG build/Debug/iPhoneDeactivator.app/Contents/Resources/COMMIT_EDITMSG    cd /Users/tigra/Desktop/Coding/iPhoneDeactivator    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/COMMIT_EDITMSG /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug/iPhoneDeactivator.app/Contents/Resources/COMMIT_EDITMSG57d14f6788b8b341^76e25a6788b8b341^-133"error: /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/COMMIT_EDITMSG: No such file or directory1(21%IDEActivityLogMessage2@132"error: /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/COMMIT_EDITMSG: No such file or directory-330860647#18446744073709551615#0#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---0#0#0#-19%DVTDocumentLocation4@129"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/COMMIT_EDITMSG0000000000000000^482"CpResource iPhoneDeactivator/libluckycharms/.git/COMMIT_EDITMSG build/Debug/iPhoneDeactivator.app/Contents/Resources/COMMIT_EDITMSG    cd /Users/tigra/Desktop/Coding/iPhoneDeactivator    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/.git/COMMIT_EDITMSG /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources
 
 CCpResource iPhoneDeactivator/libluckycharms/.git/HEAD build/Debug/iPhoneDeactivator.app/Contents/Resources/HEAD
 s330857186.709238
@@ -953,14 +920,14 @@ xbuild/Debug/iPhoneDeactivator.app/Contents/Resources/README
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/Debug/iPhoneDeactivator.app/Contents/Resources/README9180f98278b8b341^c24e498378b8b341^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources/README000020442305f041^448"CpResource iPhoneDeactivator/libluckycharms/README build/Debug/iPhoneDeactivator.app/Contents/Resources/README    cd /Users/tigra/Desktop/Coding/iPhoneDeactivator    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/tigra/Desktop/Coding/iPhoneDeactivator/iPhoneDeactivator/libluckycharms/README /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Resources
 
 CLd /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/MacOS/iPhoneDeactivator normal x86_64
-s330857116.617655
-e330857116.699762
+s330860647.217598
+e330860647.308846
 r1
 xLd
 x/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/MacOS/iPhoneDeactivator
 xnormal
 xx86_64
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Link /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/MacOS/iPhoneDeactivatora8349e9c7ab8b341^3598c69c7ab8b341^---0#0#0#--799"Ld build/Debug/iPhoneDeactivator.app/Contents/MacOS/iPhoneDeactivator normal x86_64    cd /Users/tigra/Desktop/Coding/iPhoneDeactivator    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug -F/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -filelist /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/iPhoneDeactivator.LinkFileList -mmacosx-version-min=10.6 -framework MobileDevice -framework Cocoa -o /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/MacOS/iPhoneDeactivator
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Link /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/MacOS/iPhoneDeactivator6bd4376788b8b341^05525a6788b8b341^---0#0#0#--799"Ld build/Debug/iPhoneDeactivator.app/Contents/MacOS/iPhoneDeactivator normal x86_64    cd /Users/tigra/Desktop/Coding/iPhoneDeactivator    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug -F/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -filelist /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/iPhoneDeactivator.build/Debug/iPhoneDeactivator.build/Objects-normal/x86_64/iPhoneDeactivator.LinkFileList -mmacosx-version-min=10.6 -framework MobileDevice -framework Cocoa -o /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/MacOS/iPhoneDeactivator
 
 CProcessInfoPlistFile /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app/Contents/Info.plist iPhoneDeactivator/iPhoneDeactivator-Info.plist
 s330856562.437125
@@ -994,10 +961,10 @@ CProcessPCH /var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode
 r0
 
 CTouch /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app
-s330857186.874040
-e330857186.896152
+s330860784.144722
+e330860784.153038
 r1
 xTouch
 x/Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Touch /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.appd0d0dfe27ab8b341^d97ce8e27ab8b341^---0#0#0#--195"Touch build/Debug/iPhoneDeactivator.app    cd /Users/tigra/Desktop/Coding/iPhoneDeactivator    /usr/bin/touch -c /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Touch /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.appfc1a25f088b8b341^ae2e27f088b8b341^---0#0#0#--195"Touch build/Debug/iPhoneDeactivator.app    cd /Users/tigra/Desktop/Coding/iPhoneDeactivator    /usr/bin/touch -c /Users/tigra/Desktop/Coding/iPhoneDeactivator/build/Debug/iPhoneDeactivator.app
 
